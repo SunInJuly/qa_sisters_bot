@@ -10,3 +10,4 @@ aiogram~=2.9.2
 yarl~=1.5.1
 chardet~=3.0.4
 setuptools~=50.3.0
+python-telegram-bot-pagination==0.0.1
